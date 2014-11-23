@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<pages>
+    <page>
+        <title>Home</title>
+        <url>home</url>
+    </page>
+    <page>
+        <title>Sponsors</title>
+        <url>sponsors</url>
+    </page>
+    <page>
+        <title>Team 766</title>
+        <url>team766</url>
+    </page>
+    <page>
+        <title>FIRST</title>
+        <url>first</url>
+    </page>
+    <page>
+        <title>Website</title>
+        <url>website</url>
+    </page>
+    <page>
+        <title>Blog</title>
+        <url>blog</url>
+    </page>
+    <page>
+        <title>2014 Robot</title>
+        <url>robot2014</url>
+    </page>
+    <page>
+        <title>2013 Robot</title>
+        <url>robot2013</url>
+    </page>
+    <page>
+        <title>2012 Robot</title>
+        <url>robot2012</url>
+    </page>
+    <page>
+        <title>2011 Robot</title>
+        <url>robot2011</url>
+    </page>
+    <page>
+        <title>2010 Robot</title>
+        <url>robot2010</url>
+    </page>
+    <page>
+        <title>2009 Robot</title>
+        <url>robot2009</url>
+    </page>
+    <page>
+        <title>2008 Robot</title>
+        <url>robot2008</url>
+    </page>
+    <page>
+        <title>2007 Robot</title>
+        <url>robot2007</url>
+    </page>
+    <page>
+        <title>2006 Robot</title>
+        <url>robot2006</url>
+    </page>
+    <page>
+        <title>2005 Robot</title>
+        <url>robot2005</url>
+    </page>
+    <page>
+        <title>Photos</title>
+        <url>photos</url>
+    </page>
+    <page>
+        <title>Videos</title>
+        <url>videos</url>
+    </page>
+    <page>
+        <title>Forms</title>
+        <url>forms</url>
+    </page>
+    <page>
+        <title>Supervision</title>
+        <url>supervision</url>
+    </page>
+    <page>
+        <title>Calendar</title>
+        <url>calendar</url>
+    </page>
+
+</pages>

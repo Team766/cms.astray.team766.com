@@ -1,0 +1,146 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 7, 2014, 4:25:46 PM
+    Author     : pjztam
+*/
+/* line 12, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles\.less}line{font-family:\0000312}}
+body {
+  padding-top: 50px;
+}
+/* line 15, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles\.less}line{font-family:\0000315}}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+/* Featurettes
+------------------------- */
+/* line 23, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles\.less}line{font-family:\0000323}}
+.featurette-divider {
+  margin: 40px 0;
+  /* Space out the Bootstrap <hr> more */
+}
+/* Thin out the marketing headings */
+/* line 28, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles\.less}line{font-family:\0000328}}
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -1px;
+}
+@media (min-width: 992px) {
+  /* line 34, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles.less */
+  @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles\.less}line{font-family:\0000334}}
+  .featurette-heading {
+    margin-top: 120px;
+  }
+}
+/* line 39, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles\.less}line{font-family:\0000339}}
+.main-content,
+.container.resume {
+  margin-top: 40px;
+}
+/* line 47, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles\.less}line{font-family:\0000347}}
+.container.resume .glyphicon {
+  font-size: 24px;
+  display: inline-block;
+}
+/* line 52, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles\.less}line{font-family:\0000352}}
+.container.resume h2 {
+  margin: .25em;
+  display: inline-block;
+}
+/* line 56, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles\.less}line{font-family:\0000356}}
+.container.resume panel {
+  padding: .75em;
+}
+/* line 59, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles\.less}line{font-family:\0000359}}
+.container.resume .divider {
+  margin: .5em 0;
+  border-color: #dddddd;
+}
+/* line 63, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles\.less}line{font-family:\0000363}}
+.container.resume .header-left,
+.container.resume .header-right {
+  display: inline-block;
+}
+/* line 67, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles\.less}line{font-family:\0000367}}
+.container.resume .header-right {
+  float: right;
+}
+/* line 70, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles\.less}line{font-family:\0000370}}
+.container.resume .img.col-md-2 {
+  padding: 0 1em 0 0;
+}
+/* line 74, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles\.less}line{font-family:\0000374}}
+.title-header {
+  padding: 2em;
+  background-color: #B40000;
+}
+/* line 75, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles\.less}line{font-family:\0000375}}
+.title-header h1 {
+  font-size: 50px;
+  margin: 0;
+  text-align: center;
+  color: #ffffff;
+}
+/* line 84, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles\.less}line{font-family:\0000384}}
+.rich-footer {
+  padding: 2em;
+  background-color: #B40000;
+}
+/* line 85, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles\.less}line{font-family:\0000385}}
+.rich-footer h2 {
+  margin: 0 0 .5em 0;
+  color: #9d9d9d;
+}
+/* line 91, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles\.less}line{font-family:\0000391}}
+.rich-footer .list-group {
+  color: #9d9d9d;
+}
+/* line 93, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles\.less}line{font-family:\0000393}}
+.rich-footer .list-group .list-group-item {
+  background-color: transparent;
+  border: 1px solid #800000;
+}
+/* line 99, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles\.less}line{font-family:\0000399}}
+.rich-footer a {
+  color: #9d9d9d;
+}
+/* line 103, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles\.less}line{font-family:\00003103}}
+.redder {
+  color: #9d9d9d;
+  background-color: #800000;
+}
+@media (min-height: 800px) {
+  /* line 109, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles.less */
+  @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles\.less}line{font-family:\00003109}}
+  .footer-container {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+  }
+}

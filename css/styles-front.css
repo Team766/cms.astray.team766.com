@@ -1,0 +1,162 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 7, 2014, 4:25:46 PM
+    Author     : pjztam
+*/
+/* GLOBAL STYLES
+-------------------------------------------------- */
+/* Padding below the footer and lighter body text */
+/* line 15, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles-front.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles-front\.less}line{font-family:\0000315}}
+body {
+  color: #5a5a5a;
+}
+/* CUSTOMIZE THE NAVBAR
+-------------------------------------------------- */
+/* Special class on .container surrounding .navbar, used for positioning it into place. */
+/* line 24, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles-front.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles-front\.less}line{font-family:\0000324}}
+.navbar-wrapper {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 20;
+}
+/* Flip around the padding for proper display in narrow viewports */
+/* line 33, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles-front.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles-front\.less}line{font-family:\0000333}}
+.navbar-wrapper > .container {
+  padding-right: 0;
+  padding-left: 0;
+}
+/* line 37, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles-front.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles-front\.less}line{font-family:\0000337}}
+.navbar-wrapper .navbar {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+/* line 41, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles-front.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles-front\.less}line{font-family:\0000341}}
+.navbar-wrapper .navbar .container {
+  width: auto;
+}
+/* CUSTOMIZE THE CAROUSEL
+-------------------------------------------------- */
+/* Carousel base class */
+/* line 50, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles-front.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles-front\.less}line{font-family:\0000350}}
+.carousel {
+  height: 500px;
+  margin-bottom: 60px;
+}
+/* Since positioning the image, we need to help out the caption */
+/* line 55, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles-front.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles-front\.less}line{font-family:\0000355}}
+.carousel-caption {
+  z-index: 10;
+}
+/* Declare heights because of positioning of img element */
+/* line 60, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles-front.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles-front\.less}line{font-family:\0000360}}
+.carousel .item {
+  height: 500px;
+  background-color: #777;
+}
+/* line 64, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles-front.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles-front\.less}line{font-family:\0000364}}
+.carousel-inner > .item > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 500px;
+}
+/* MARKETING CONTENT
+-------------------------------------------------- */
+/* Center align the text within the three columns below the carousel */
+/* line 77, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles-front.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles-front\.less}line{font-family:\0000377}}
+.marketing .col-lg-4 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+/* line 81, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles-front.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles-front\.less}line{font-family:\0000381}}
+.marketing h2 {
+  font-weight: normal;
+}
+/* line 84, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles-front.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles-front\.less}line{font-family:\0000384}}
+.marketing .col-lg-4 p {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+/* Featurettes
+------------------------- */
+/* line 93, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles-front.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles-front\.less}line{font-family:\0000393}}
+.featurette-divider {
+  margin: 80px 0;
+  /* Space out the Bootstrap <hr> more */
+}
+/* Thin out the marketing headings */
+/* line 98, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles-front.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles-front\.less}line{font-family:\0000398}}
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -1px;
+}
+/* RESPONSIVE CSS
+-------------------------------------------------- */
+@media (min-width: 768px) {
+  /* Navbar positioning foo */
+  /* line 110, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles-front.less */
+  @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles-front\.less}line{font-family:\00003110}}
+  .navbar-wrapper {
+    margin-top: 20px;
+  }
+  /* line 113, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles-front.less */
+  @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles-front\.less}line{font-family:\00003113}}
+  .navbar-wrapper .container {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  /* line 117, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles-front.less */
+  @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles-front\.less}line{font-family:\00003117}}
+  .navbar-wrapper .navbar {
+    padding-right: 0;
+    padding-left: 0;
+  }
+  /* The navbar becomes detached from the top, so we round the corners */
+  /* line 123, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles-front.less */
+  @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles-front\.less}line{font-family:\00003123}}
+  .navbar-wrapper .navbar {
+    border-radius: 4px;
+  }
+  /* Bump up size of carousel content */
+  /* line 128, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles-front.less */
+  @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles-front\.less}line{font-family:\00003128}}
+  .carousel-caption p {
+    margin-bottom: 20px;
+    font-size: 21px;
+    line-height: 1.4;
+  }
+  /* line 134, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles-front.less */
+  @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles-front\.less}line{font-family:\00003134}}
+  .featurette-heading {
+    font-size: 50px;
+  }
+}
+@media (min-width: 992px) {
+  /* line 140, C:\Users\pjztam\Documents\GitHub\temp.astray.team766.com\public_html\less\styles-front.less */
+  @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/temp\.astray\.team766\.com\/public_html\/less\/styles-front\.less}line{font-family:\00003140}}
+  .featurette-heading {
+    margin-top: 120px;
+  }
+}

@@ -3,9 +3,11 @@
 class menu {
 
     var $menuData;
+    var $activeLink;
 
-    function __construct($url) {
+    function __construct($url, $activeLink) {
         $this->setMenuData($url);
+        $this->activeLink = $activeLink;
     }
 
     function getData() {
@@ -20,9 +22,11 @@ class menu {
             die($e->getMessage());
         }
     }
+
     function getMenu() {
         $menuData = $this->menuData;
-        $output = '';
+        $output = '<!-- Navbar BEGIN
+        ================================================== -->';
         $output .= '<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
                         <div class="container">
                             <div class="navbar-header">
@@ -44,9 +48,10 @@ class menu {
             }
         }
         $output .= '</ul>' . "\n" . '</div>' . "\n" . '</div>' . "\n" . '</nav>';
+        $output .= '<!-- Navbar END
+        ================================================== -->';
         return $output;
     }
-    
 
     function subMenuGenerator($submenu) {
         $output = '';
@@ -55,7 +60,6 @@ class menu {
                             <ul class="dropdown-menu" role="menu">';
 
         foreach ($submenu->children() as $item) {
-            
             $output .= $this->menuItemGenerator($item);
         }
         $output .= '</ul>' . "\n" . '</li>' . "\n";
@@ -63,7 +67,16 @@ class menu {
     }
 
     function menuItemGenerator($item) {
-        return '<li><a href="' . $item->link . '">' . $item->title . '</a></li>' . "\n";
+        $output = '';
+        if ($item->link != '') {
+            if ($this->activeLink == $item->link) {
+                $output .= '<li class="active">';
+            } else {
+                $output .= '<li>';
+            }
+            $output .= '<a href="' . $item->link . '">' . $item->title . '</a></li>' . "\n";
+        }
+        return $output;
     }
 
 }

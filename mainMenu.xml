@@ -11,6 +11,10 @@
     <submenu>
         <title>About Us</title>
         <item>
+            <title>Sponsors</title>
+            <link>sponsors</link>
+        </item>
+        <item>
             <title>Team 766</title>
             <link>team766</link>
         </item>
