@@ -4,7 +4,113 @@
         <title>Team 766</title>
         <link>home</link>
     </brand>
-
-
+    <item>
+        <title>Home</title>
+            <link>home</link>
+    </item>
+    <submenu>
+        <title>About Us</title>
+        <item>
+            <title>Team 766</title>
+            <link>team766</link>
+        </item>
+        <item>
+            <title>FIRST</title>
+            <link>first</link>
+        </item>
+        <item>
+            <title>Website</title>
+            <link>website</link>
+        </item>
+        <item>
+            <title>Contact</title>
+            <link>contact</link>
+        </item>
+    </submenu>
+    
+    <item>
+        <title>Blog</title>
+            <link>blog</link>
+    </item>
+    
+    <submenu>
+        <title>Robots</title>
+        <item>
+            <title>2014</title>
+            <link>robot2014</link>
+        </item>
+        <item>
+            <title>2013</title>
+            <link>robot2013</link>
+        </item>
+        <item>
+            <title>2012</title>
+            <link>robot2012</link>
+        </item>
+        <item>
+            <title>2011</title>
+            <link>robot2011</link>
+        </item>
+        <item>
+            <title>2010</title>
+            <link>robot2010</link>
+        </item>
+        <item>
+            <title>2009</title>
+            <link>robot2009</link>
+        </item>
+        <item>
+            <title>2008</title>
+            <link>robot2008</link>
+        </item>
+        <item>
+            <title>2007</title>
+            <link>robot2007</link>
+        </item>
+        <item>
+            <title>2006</title>
+            <link>robot2006</link>
+        </item>
+        <item>
+            <title>2005</title>
+            <link>robot2005</link>
+        </item>
+        
+    </submenu>
+    <submenu>
+        <title>Media</title>
+        <item>
+            <title>Photos</title>
+            <link>photos</link>
+        </item>
+        <item>
+            <title>Videos</title>
+            <link>videos</link>
+        </item>
+    </submenu>
+    <submenu>
+        <title>Resources</title>
+        <item>
+            <title>Forms</title>
+            <link>forms</link>
+        </item>
+        <item>
+            <title>Supervision</title>
+            <link>supervision</link>
+        </item>
+        <item>
+            <title>Attendance</title>
+            <link>attendnace</link>
+        </item>
+        <item>
+            <title>Archives</title>
+            <link>archives</link>
+        </item>
+    </submenu>
+    
+    <item>
+        <title>Calendar</title>
+        <link>calendar</link>
+    </item>
 </mainMenu>
 
