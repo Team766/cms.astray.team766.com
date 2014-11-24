@@ -21,6 +21,7 @@ $headerHTML = str_replace('TITLE_PLACEHOLDER', $title, file_get_contents('conten
 $pageHTML = file_get_contents($pageFileURL);
 $footerHTML = file_get_contents('content/footer.html');
 
+
 echo $headerHTML . $menuHTML . $pageHTML . $footerHTML;
 ?>
 

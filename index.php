@@ -1,5 +1,5 @@
 
 <?php
 
-// put your code here
+header('Location: http://dev3.team766.com/home');
 ?>

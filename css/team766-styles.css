@@ -71,72 +71,77 @@ body {
   }
 }
 /*# sourceMappingURL=styles.css.map */
-/* line 62, C:\Users\pjztam\Documents\GitHub\cms.astray.team766.com\less\team766-styles.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/cms\.astray\.team766\.com\/less\/team766-styles\.less}line{font-family:\0000362}}
+/* line 61, C:\Users\pjztam\Documents\GitHub\cms.astray.team766.com\less\team766-styles.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/cms\.astray\.team766\.com\/less\/team766-styles\.less}line{font-family:\0000361}}
+.index .row {
+  margin-top: 20px;
+}
+/* line 65, C:\Users\pjztam\Documents\GitHub\cms.astray.team766.com\less\team766-styles.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/cms\.astray\.team766\.com\/less\/team766-styles\.less}line{font-family:\0000365}}
 .section-heading .fa,
 .section-heading .glyphicon {
   font-size: 30px;
 }
-/* line 66, C:\Users\pjztam\Documents\GitHub\cms.astray.team766.com\less\team766-styles.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/cms\.astray\.team766\.com\/less\/team766-styles\.less}line{font-family:\0000366}}
+/* line 69, C:\Users\pjztam\Documents\GitHub\cms.astray.team766.com\less\team766-styles.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/cms\.astray\.team766\.com\/less\/team766-styles\.less}line{font-family:\0000369}}
 .section-heading h2 {
   margin: .25em;
   display: inline-block;
 }
-/* line 71, C:\Users\pjztam\Documents\GitHub\cms.astray.team766.com\less\team766-styles.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/cms\.astray\.team766\.com\/less\/team766-styles\.less}line{font-family:\0000371}}
+/* line 74, C:\Users\pjztam\Documents\GitHub\cms.astray.team766.com\less\team766-styles.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/cms\.astray\.team766\.com\/less\/team766-styles\.less}line{font-family:\0000374}}
 .container.content {
   margin-top: 2em;
 }
-/* line 75, C:\Users\pjztam\Documents\GitHub\cms.astray.team766.com\less\team766-styles.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/cms\.astray\.team766\.com\/less\/team766-styles\.less}line{font-family:\0000375}}
+/* line 78, C:\Users\pjztam\Documents\GitHub\cms.astray.team766.com\less\team766-styles.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/cms\.astray\.team766\.com\/less\/team766-styles\.less}line{font-family:\0000378}}
 .container .panel {
   padding: 0 .75em;
 }
-/* line 78, C:\Users\pjztam\Documents\GitHub\cms.astray.team766.com\less\team766-styles.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/cms\.astray\.team766\.com\/less\/team766-styles\.less}line{font-family:\0000378}}
+/* line 81, C:\Users\pjztam\Documents\GitHub\cms.astray.team766.com\less\team766-styles.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/cms\.astray\.team766\.com\/less\/team766-styles\.less}line{font-family:\0000381}}
 .container .divider {
   border-color: #dddddd;
 }
-/* line 82, C:\Users\pjztam\Documents\GitHub\cms.astray.team766.com\less\team766-styles.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/cms\.astray\.team766\.com\/less\/team766-styles\.less}line{font-family:\0000382}}
+/* line 85, C:\Users\pjztam\Documents\GitHub\cms.astray.team766.com\less\team766-styles.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/cms\.astray\.team766\.com\/less\/team766-styles\.less}line{font-family:\0000385}}
 .robots .divider {
   margin-top: .25em;
   margin-bottom: 1.5em;
 }
-/* line 86, C:\Users\pjztam\Documents\GitHub\cms.astray.team766.com\less\team766-styles.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/cms\.astray\.team766\.com\/less\/team766-styles\.less}line{font-family:\0000386}}
+/* line 89, C:\Users\pjztam\Documents\GitHub\cms.astray.team766.com\less\team766-styles.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/cms\.astray\.team766\.com\/less\/team766-styles\.less}line{font-family:\0000389}}
 .robots h3 {
   margin: .25em;
   display: inline-block;
 }
-/* line 90, C:\Users\pjztam\Documents\GitHub\cms.astray.team766.com\less\team766-styles.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/cms\.astray\.team766\.com\/less\/team766-styles\.less}line{font-family:\0000390}}
+/* line 93, C:\Users\pjztam\Documents\GitHub\cms.astray.team766.com\less\team766-styles.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/cms\.astray\.team766\.com\/less\/team766-styles\.less}line{font-family:\0000393}}
 .robots .section-heading.competitions {
   margin-top: 1em;
 }
-/* line 94, C:\Users\pjztam\Documents\GitHub\cms.astray.team766.com\less\team766-styles.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/cms\.astray\.team766\.com\/less\/team766-styles\.less}line{font-family:\0000394}}
+/* line 97, C:\Users\pjztam\Documents\GitHub\cms.astray.team766.com\less\team766-styles.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/cms\.astray\.team766\.com\/less\/team766-styles\.less}line{font-family:\0000397}}
 .robots .section-heading .fa {
   font-size: 24px;
 }
-/* line 99, C:\Users\pjztam\Documents\GitHub\cms.astray.team766.com\less\team766-styles.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/cms\.astray\.team766\.com\/less\/team766-styles\.less}line{font-family:\0000399}}
+/* line 102, C:\Users\pjztam\Documents\GitHub\cms.astray.team766.com\less\team766-styles.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/cms\.astray\.team766\.com\/less\/team766-styles\.less}line{font-family:\00003102}}
 .robots .compsSpecsSec ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
 @media (min-width: 900px) {
-  /* line 115, C:\Users\pjztam\Documents\GitHub\cms.astray.team766.com\less\team766-styles.less */
-  @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/cms\.astray\.team766\.com\/less\/team766-styles\.less}line{font-family:\00003115}}
+  /* line 118, C:\Users\pjztam\Documents\GitHub\cms.astray.team766.com\less\team766-styles.less */
+  @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/cms\.astray\.team766\.com\/less\/team766-styles\.less}line{font-family:\00003118}}
   .container.notFound .col-md-4 .content-wrapper {
     height: 229px;
   }
 }
 @media (min-width: 900px) and (min-width: 1200px) {
-  /* line 111, C:\Users\pjztam\Documents\GitHub\cms.astray.team766.com\less\team766-styles.less */
-  @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/cms\.astray\.team766\.com\/less\/team766-styles\.less}line{font-family:\00003111}}
+  /* line 114, C:\Users\pjztam\Documents\GitHub\cms.astray.team766.com\less\team766-styles.less */
+  @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/pjztam\/Documents\/GitHub\/cms\.astray\.team766\.com\/less\/team766-styles\.less}line{font-family:\00003114}}
   .container.notFound .col-md-4 .content-wrapper {
     height: 190px;
   }
