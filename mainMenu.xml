@@ -81,7 +81,7 @@
         </item>
         
     </submenu>
-    <submenu>
+<!--    <submenu>
         <title>Media</title>
         <item>
             <title>Photos</title>
@@ -91,7 +91,7 @@
             <title>Videos</title>
             <link>videos</link>
         </item>
-    </submenu>
+    </submenu>-->
     <submenu>
         <title>Resources</title>
         <item>
@@ -100,15 +100,15 @@
         </item>
         <item>
             <title>Supervision</title>
-            <link>supervision</link>
+            <link>http://www.signupgenius.com/go/904044fa8ae238-team</link>
         </item>
         <item>
             <title>Attendance</title>
-            <link>attendnace</link>
+            <link>http://attendance.team766.com</link>
         </item>
         <item>
             <title>Archives</title>
-            <link>archives</link>
+            <link>http://archive.team766.com</link>
         </item>
     </submenu>
     

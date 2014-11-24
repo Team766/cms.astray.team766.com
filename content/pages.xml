@@ -28,6 +28,10 @@ and open the template in the editor.
         <url>website</url>
     </page>
     <page>
+        <title>Contact</title>
+        <url>contact</url>
+    </page>
+    <page>
         <title>Blog</title>
         <url>blog</url>
     </page>
@@ -71,22 +75,22 @@ and open the template in the editor.
         <title>2005 Robot</title>
         <url>robot2005</url>
     </page>
-    <page>
+<!--    <page>
         <title>Photos</title>
         <url>photos</url>
     </page>
     <page>
         <title>Videos</title>
         <url>videos</url>
-    </page>
+    </page>-->
     <page>
         <title>Forms</title>
         <url>forms</url>
     </page>
-    <page>
+<!--    <page>
         <title>Supervision</title>
         <url>supervision</url>
-    </page>
+    </page>-->
     <page>
         <title>Calendar</title>
         <url>calendar</url>
