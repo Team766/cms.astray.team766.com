@@ -95,5 +95,9 @@ and open the template in the editor.
         <title>Calendar</title>
         <url>calendar</url>
     </page>
+    <page>
+        <title>404</title>
+        <url>404</url>
+    </page>
 
 </pages>
