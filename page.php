@@ -2,7 +2,7 @@
 
 include 'menu.class.php';
 $pageURI = filter_var($_SERVER['REQUEST_URI'], FILTER_SANITIZE_URL);
-$pageRelativeURI = basename($pageURI);
+$pageRelativeURI = str_replace('/','',basename($pageURI));
 $pages = new SimpleXMLElement('content/pages.xml', 0, true);
 
 
