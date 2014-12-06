@@ -104,11 +104,7 @@
         </item>
         <item>
             <title>Attendance</title>
-            <link>http://attendance.team766.com</link>
-        </item>
-        <item>
-            <title>Archives</title>
-            <link>http://archive.team766.com</link>
+            <link>https://attendance.team766.com/clockin.php</link>
         </item>
     </submenu>
     

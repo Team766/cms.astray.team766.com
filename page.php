@@ -13,7 +13,7 @@ foreach($pages->children() as $page) {
     }
 }
 if ($pageFileURL == "") {
-    header('Location: http://dev3.team766.com/404');
+    header('Location: https://www.team766.com/404');
 }
 
 $menu = new Menu('mainMenu.xml', $pageRelativeURI);

@@ -1,5 +1,5 @@
 
 <?php
 
-header('Location: http://dev3.team766.com/home');
+header('Location: https://www.team766.com/home');
 ?>
