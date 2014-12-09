@@ -44,13 +44,7 @@ Temporary Items
 .apdisk
 
 #netbeans
-nbproject/private/
-build/
-nbbuild/
-dist/
-nbdist/
-nbactions.xml
-nb-configuration.xml
+nbproject/
 
 #Google Webmaster
 google4f64ff74384d1f8e.html
